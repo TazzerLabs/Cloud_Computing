@@ -1,0 +1,1 @@
+curl -X POST localhost/api/account/token -d '{"username": "john", "password": "john123456"}' {"token":"eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJleHAiOjE1Mzg4NDM2NzMsInVzZXJuYW1lIjoicmFtb24ifQ.QUQjgByqzclFM-GQ_tqvQogiwIVLUpI-Iu6SjLCRAMw"}
